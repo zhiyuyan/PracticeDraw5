@@ -25,6 +25,7 @@ public class Practice03OnDrawLayout extends LinearLayout {
     }
 
     {
+        setWillNotDraw(false);
         // 在这里插入 setWillNotDraw(false) 以启用完整的绘制流程
     }
 
